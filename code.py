@@ -5,12 +5,11 @@ Spyder Editor
 This is a temporary script file.
 """
 
-b=int(2.0)
+"""b=int(2.0)
 print(b)
 #c='ABC'
 x=complex(13)
-print(x)
-"""e=bool()
+print(x
 f=bool(0)
 g=bool(1)
 h=bool(5)
@@ -36,11 +35,11 @@ print (t)"""
 """a=1+4j
 print(a)"""
 
-L=[1,4,6,2,9,6,5,0]
-print(L.sort())
+"""L=[1,4,6,2,9,6,5,0]
+print(L.sort())"""
 
 #L.sort(reverse=True)
-print(L)
+"""print(L)"""
 #L[7]=9
 #print(L)
 
@@ -52,7 +51,25 @@ print(L)
 
 # d={1:2,3:"drt",5:8}
 # d[5]=9
-# print(d.items())
+# print(d.items())"""
+
+#print(5==10)
+
+"""def xyz():
+    print("sru")
+xyz()"""
+
+a=10
+b=14
+c=12
+if(a>b)and(a>c):
+    print("a is greater")
+elif(b>a)and (b>c):
+        print("b is greater")
+else:
+        print("c is greater"
+              )
+
 
 
 
