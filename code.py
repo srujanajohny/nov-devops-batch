@@ -59,7 +59,7 @@ print(L.sort())"""
     print("sru")
 xyz()"""
 
-a=10
+"""a=10
 b=14
 c=12
 if(a>b)and(a>c):
@@ -69,6 +69,43 @@ elif(b>a)and (b>c):
 else:
         print("c is greater"
               )
+        """
+"""for i in range(9,3,-2):
+    print(i)"""
+    
+
+    
+
+            
+           
+def operators(x,y,z):
+    print(x+y+z)
+    print(x-y-z)
+    print(x*y*z)
+    print(x/y/z)
+    print(x//y//z)
+    print(x%y%z)
+operators(2,4,9) 
+
+"""def op(x,y,z):
+    print(x-y-z)
+op(2,4,9) 
+
+def op(x,y,z):
+    print(x*y*z)
+op(2,4,9) 
+
+def op(x,y,z):
+    print(x/y/z)
+op(10,4,2)
+
+def op(x,y,z):
+    print(x//y//z)
+op(10,4,2)
+
+def op(x,y,z):
+    print(x%y%z)
+op(10,4,2)"""
 
 
 
