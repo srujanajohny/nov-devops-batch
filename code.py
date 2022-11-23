@@ -78,14 +78,14 @@ else:
 
             
            
-def operators(x,y,z):
+"""def operators(x,y,z):
     print(x+y+z)
     print(x-y-z)
     print(x*y*z)
     print(x/y/z)
     print(x//y//z)
     print(x%y%z)
-operators(2,4,9) 
+operators(2,4,9) """
 
 """def op(x,y,z):
     print(x-y-z)
@@ -106,6 +106,99 @@ op(10,4,2)
 def op(x,y,z):
     print(x%y%z)
 op(10,4,2)"""
+
+"""def op(a,b):
+    return(a/b)
+z=op(1,3)
+print(z)"""
+
+"""l=[1,4,6,7,9]
+l.reverse()
+print("reverse()",l)
+print("reversed()", list(reversed(l)))"""
+
+"""l=[1,2,3,4,5]
+print("before",l)
+l.reverse()
+print("after",l)"""
+
+"""print("reverse list using for loop")
+l=[1,5,7,9,2,4]
+print("before:", l)
+reversed_list=[]
+for i in l:
+    reversed_list=[i]+reversed_list
+    print("after", reversed_list)
+    
+print("descending order using for loop")
+l=[2,3,4,2,6,9,1]
+print("list",l)
+for i in range(0, len(l)):
+    l[i]=int(l[i])
+    l.sort(reverse = True)
+print ("des:" + str(l))
+
+
+l=[1,5,7,9,2,4]
+print("before:", l)
+reversed_list=[]
+for i in l:
+    reversed_list.insert(0,i)
+    print("after", reversed_list)"""
+    
+"""for i in range(6):
+        print(i)"""
+        
+        
+"""def op(a,b):
+    return(a*b)
+y=op(2,9)
+print(y
+     )"""
+
+"""class Math:
+    def __init__(self, a, b):
+        self.a=a
+        self.b=b
+    def subtract(self):
+            return self.a-self.b   
+mat = Math(2,3)
+s = mat.subtract()
+print(s)
+
+class AB(Math):
+    print("inside abc")
+    
+ab=AB(2,5)
+print(ab.subtract())"""
+
+
+"""class A:
+      a = 1
+      _b = 7
+      __c = 9
+      print (_b+__c)
+d=A
+print(d._b)"""
+
+import datetime
+
+time = datetime.datetime.now()
+print(time)
+
+
+    
+
+    
+
+
+
+    
+    
+    
+ 
+
+
 
 
 
