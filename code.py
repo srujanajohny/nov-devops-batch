@@ -196,17 +196,49 @@ class B(A):
 object=B()
 object.fun()
 object.fun2()"""
-
-class parent:
-    def __init__(self,a,b):
-        self.a=a
-        self.b=b
-class child(parent):
-    print("in")
-        
         
     
              
+import pandas as pd
+
+data =pd.read_csv('bank.csv')
+"""data.rename(columns= {'job':'jobs'}, inplace=True)"""
+"""df =data ['age']
+adults = data.loc[data['age']>18]"""
+
+
+
+jobtitles=data ['job']
+
+
+jobtitles.to_csv('onlyjobcolumn2.csv', index= True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
