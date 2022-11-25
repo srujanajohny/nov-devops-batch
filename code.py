@@ -180,11 +180,38 @@ print(ab.subtract())"""
       print (_b+__c)
 d=A
 print(d._b)"""
-
+"""
 import datetime
 
 time = datetime.datetime.now()
 print(time)
+"""
+
+"""class A:
+    def fun(self):
+        print("parent class")
+class B(A):
+    def fun2(self):
+        print("childclass")
+object=B()
+object.fun()
+object.fun2()"""
+
+class parent:
+    def __init__(self,a,b):
+        self.a=a
+        self.b=b
+class child(parent):
+    print("in")
+        
+        
+    
+             
+
+
+
+
+
 
 
     
