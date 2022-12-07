@@ -1,0 +1,26 @@
+•	Deploying and supporting source code management tools like Git, Github, Bitbucket, SVN.
+•	Strong hands-on experience in scripting languages such as Groovy, Powershell, python, shell scripting.
+•	Hands on experience on Azure web application like Azure App & Cloud Services, Azure Data Factory, Azure SQL Data Warehouse, Azure Blob Storage, Web API, VM creation, Lift & Shift, Azure storage, Fabric controller, Azure AD, Azure search, & Notification hub.
+•	Extensively worked on Jenkins, Docker, and Bamboo for continuous integration (CI) and for End-to-End automation for all build and deployments
+•	Hands on experience with Selenium, QTP and HP Load runner Testing Tools
+•	Experience in implementing, administering and monitoring tools splunk, Nagios, consule, Netcool, Graphite and building, deploying java and SOA applications and troubleshooting the build and deploy.
+•	Production experience in large environments using configuration management tools Chef, Puppet and Ansible. Installed and configured an automated tool Puppet that included the installation and configuration of the Puppet master, agent nodes and an admin control workstation.
+•	Experienced in administration of Production, Development and Test environments carrying Windows, Linux, Ubuntu servers
+•	Have working knowledge of defect tracking tool ServiceNow, JIRA
+•	Exposure to administration of servers such as Apache, Tomcat, WebLogic, JBoss, WebSphere.
+•	Designed Network Security Groups (NSGs) to control inbound and outbound access to network interfaces (NICs), VMs and subnets.
+•	Hands-on experience with Ansible scripts and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploy critical applications, Environment configuration Files, Users, Mount points, Packages across the classified inventory as needed.
+•	Proficient in Chef Enterprise Hosted On-Premise, Installed Workstation, Bootstrapped Nodes, Wrote Recipes and Cookbooks and uploaded them to Chef-server
+•	Extensively used Ruby scripting on Chef Automation for creating cookbooks comprising all resources, Data bags, templates, attributes.
+•	Experience in writing Infrastructure as a code (IaaC) in Terraform, Azure resource management (ARM) Templates
+•	Experienced in authoring and building Azure Logic apps, Logic App integration, Publishing and monitoring Logic Apps and Logic App diagnostics.
+•	Experience with deployments, maintenance, and troubleshooting applications on Azure.
+•	Administered tasks like taking backups, expanding file system disk space, creating NFS mounts, TCP/IP, UDP, OSI Model, N tier Architecture, DNS, DHCP, NAS, NFS, SSH, HTTP and HTTPS
+•	Extensive experience using MAVEN, Gradle and ANT as build tools for building of deployable artifacts (JAR, WAR, & EAR) from source code.
+•	Experience in setting up the build and deployment automation for Terraform scripts using jenkins
+•	Proficiency in using Docker Hub, Docker engine, Docker images, Docker weave, Docker Compose, Docker Swarm, Docker Registry and used containerization to make applications platform when moved in different environments.
+•	Developed Shell and python scripts used to automate day to day administrative tasks and automation of the build and release process
+•	Expert in capturing the entire Infrastructure as Code using tools like terraform, packer
+•	Migrated services to Openstack an open source software platform for cloud service design, network layout data, migration, automation, monitoring , deployments and cutover, documentation , overall plan , cost analysis.
+•	Experience in setting up the build and deployment automation for Terraform scripts using jenkins
+•	Good understanding of openshift platform in managing Docker containers Kubernetes
