@@ -205,19 +205,18 @@ object.fun2()"""
 """data.rename(columns= {'job':'jobs'}, inplace=True)"""
 """df =data ['age']
 adults = data.loc[data['age']>18]"""
-"""
+
 import pandas as pd
 data =pd.read_csv('bank.csv')
-jobtitles=data ['job']
+
 #drop duplicates job column
-jd=jobtitles.drop_duplicates(keep="first")
+#jd=jobtitles.drop_duplicates(keep="first")"""
 
 
-jobtitles.to_csv('onlyjobcolumn2.csv', index= True)
+"""jobtitles.to_csv('onlyjobcolumn2.csv', index= True)
 jd.to_csv('nodupjobcolumn2.csv', index= False)"""
 
-
-print("json file")
+print("hi srujana")
 
 {
  "student": [
@@ -233,6 +232,7 @@ print("json file")
       }
      ]
  }
+
 
 
 
